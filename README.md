@@ -7,8 +7,8 @@ int[] emmaScores = new int[] { 90, 85, 87, 98, 68, 89, 89, 89 };
 int[] loganScores = new int[] { 90, 95, 87, 88, 96, 96 };
 
 //system 32[]
-int[] extraCredit = new int 0;
-int[] assignCredit = new int { 0, 0, 0, 0 }
+    int[] extraCredit = new int 0;
+int[] assignCredit = new int { 0, 0, 0, 0 };
 
 // Student names
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
